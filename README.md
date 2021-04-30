@@ -1,2 +1,3 @@
 # playlist
-You can add the URL of the any youtube video you want.
+You can add any number of URL of any youtube video you want.
+Add Name, URL and description of the video.
